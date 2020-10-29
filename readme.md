@@ -1,4 +1,4 @@
-#Wrangle and Analyze Data Project
+# Wrangle and Analyze Data Project
 
 ## **Introduction**
 This project is part of the Udacity Data Analyst Nanodegree Program. WeRateDogs is a popular Twitter page that posts photos of dogs, and rates them using a unique scale (where dogs typically achieve scores higher than a 10/10). It is more of an dog appreciation page and is not meant to be viewed as critique. As the account continues to gain popularity, it would be interesting to scrape Tweet data and see what kinds of posts typically gain the most momentum.
